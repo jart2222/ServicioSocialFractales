@@ -36,3 +36,4 @@ ax.set_box_aspect((1,1,1))
 ax.plot_surface(X, Y, Z,alpha=0.8, cmap=cm.Wistia)
 plt.show()
 
+
